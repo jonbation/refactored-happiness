@@ -3,9 +3,10 @@
 <a title="Crowdin" target="_blank" href="https://crowdin.com/project/orgzly"><img src="https://d322cqt584bo4o.cloudfront.net/orgzly/localized.svg"></a>
 #+END_HTML
 
-* Orgzly
+* Refactored-happiness
 
-Orgzly is an outliner for taking notes and managing to-do lists.
+
+Refactored-happiness is an outliner for taking notes and managing to-do lists.
 
 You can keep notebooks stored in plain-text and have them synchronized
 with a directory on your mobile device, SD card, WebDAV server or Dropbox.
