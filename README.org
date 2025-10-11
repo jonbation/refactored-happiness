@@ -1,6 +1,3 @@
-#+BEGIN_HTML
-<a title="Crowdin" target="_blank" href="https://crowdin.com/project/orgzly"><img src="https://d322cqt584bo4o.cloudfront.net/orgzly/localized.svg"></a>
-#+END_HTML
 
 * Refactored-happiness
 
